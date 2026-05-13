@@ -1,0 +1,6 @@
+ID_Paciente,Nombre,Frecuencia_Cardiaca_BPM,Saturacion_O2_%,Actividad
+101,Maria,72,98,Reposo
+102,Juan,95,94,Ejercicio
+103,Pablo,68,99,Reposo
+104,Elena,110,92,Ejercicio
+105,Carlos,85,97,Caminata
